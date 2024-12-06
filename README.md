@@ -10,9 +10,15 @@ Dentre as especificações requisitadas para o projeto pelo professor da discipl
 Para a execução:
 
 1 - Compilar o código utilizando o gcc;
+
 2 - Executar o arquivo compilado gerado;
+
 (O terminal será aberto pedindo um número para ser utilizado como base para as operações posteriormente selecionadas);
+
 3 - Digitar o número requisitado;
+
 4 - Escolher uma das opções de operações no menu exibido abaixo ou Limpar ou Sair;
+
 5 - Utilizar a calculadora como desejar;
+
 6 - Digitar 's' para fechar o programa.
